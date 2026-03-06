@@ -183,6 +183,4 @@ Response:
 
 ---
 
-## 🎤 Interview Answer
-
-> *"I built a real-time churn risk simulator deployed as a backend service. The system models how users transition between engagement states — Active, At Risk, Churned — using Markov chains, and updates churn probability dynamically using Bayesian logic whenever new behavior data arrives. It's designed as a multi-company platform so any product can send user activity and receive real-time churn risk insights with a Streamlit dashboard for business stakeholders."*
+> *"Built a real-time churn risk simulator deployed as a backend service. The system models how users transition between engagement states - Active, At Risk, Churned - using Markov chains, and updates churn probability dynamically using Bayesian logic whenever new behavior data arrives. It's designed as a multi-company platform so any product can send user activity and receive real-time churn risk insights with a Streamlit dashboard for business stakeholders."*
