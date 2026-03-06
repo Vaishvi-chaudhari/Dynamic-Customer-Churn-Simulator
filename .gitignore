@@ -6,7 +6,7 @@ venv/
 .env
 
 # Database
-*.db
+# *.db  (Uncommented for Streamlit Cloud deployment)
 
 # Docker
 .docker
