@@ -44,7 +44,7 @@ User Activity Event
 
 ## 🚀 Quick Start
 
-### Option A — Local (3 commands)
+### Option A - Local (3 commands)
 
 ```bash
 # 1. Install dependencies
@@ -59,7 +59,7 @@ streamlit run streamlit_app/dashboard.py
 
 Dashboard → http://localhost:8501
 
-### Option B — Docker (1 command)
+### Option B - Docker (1 command)
 
 ```bash
 docker-compose up --build
